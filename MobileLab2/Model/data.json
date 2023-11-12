@@ -1,0 +1,32 @@
+[
+    {
+        "creds": "Кримлов Данило Юрійович",
+        "firstSubjectPoints": 65,
+        "secondSubjectPoints": 82,
+        "address": "вул Вишнева"
+   },
+    {
+        "creds": "Литвин Олександр",
+        "firstSubjectPoints": 95,
+        "secondSubjectPoints": 69,
+        "address": "вул Житня"
+   },
+    {
+        "creds": "Макогон Степан Васильович",
+        "firstSubjectPoints": 25,
+        "secondSubjectPoints": 49,
+        "address": "вул Бурулька"
+   },
+    {
+        "creds": "Васильчук Василь Васильович",
+        "firstSubjectPoints": 59,
+        "secondSubjectPoints": 49,
+        "address": "вул Степана Бандери"
+   },
+    {
+        "creds": "Бурбак Іван Степанович",
+        "firstSubjectPoints": 96,
+        "secondSubjectPoints": 68,
+        "address": "вул Драгоманова"
+   },
+]
